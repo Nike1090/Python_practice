@@ -1,0 +1,14 @@
+{
+    "Person 1": {
+        "first_name": "Max",
+        "last_name": "colidge",
+        "year": 2024,
+        "money": 230.5
+    },
+    "Person 2": {
+        "first_name": "Derex",
+        "last_name": "colidge",
+        "year": 2024,
+        "money": 230.5
+    }
+}

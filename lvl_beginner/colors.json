@@ -1,0 +1,29 @@
+{
+    "colors": [
+      {
+        "color": "Red",
+        "value": "#FF0000"
+      },
+      {
+        "color": "Green",
+        "value": "#00FF00"
+      },
+      {
+        "color": "Blue",
+        "value": "#0000FF"
+      },
+      {
+        "color": "Yellow",
+        "value": "#FFFF00"
+      },
+      {
+        "color": "Cyan",
+        "value": "#00FFFF"
+      },
+      {
+        "color": "Magenta",
+        "value": "#FF00FF"
+      }
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+2024-06-24 17:44:52,524 - DEBUG - Testing debug log! Num: 0
+2024-06-24 17:44:53,025 - INFO - Testing debug log! Num: 0
+2024-06-24 17:44:53,525 - ERROR - Testing debug log! Num: 0
+2024-06-24 17:44:53,525 - DEBUG - Testing debug log! Num: 1
+2024-06-24 17:44:54,027 - INFO - Testing debug log! Num: 1
+2024-06-24 17:44:54,528 - ERROR - Testing debug log! Num: 1
+2024-06-24 17:44:54,528 - DEBUG - Testing debug log! Num: 2
+2024-06-24 17:44:55,029 - INFO - Testing debug log! Num: 2
+2024-06-24 17:44:55,529 - ERROR - Testing debug log! Num: 2
+2024-06-24 17:44:55,541 - DEBUG - Testing debug log! Num: 3
+2024-06-24 17:44:56,042 - INFO - Testing debug log! Num: 3
+2024-06-24 17:44:56,542 - ERROR - Testing debug log! Num: 3
+2024-06-24 17:44:56,542 - DEBUG - Testing debug log! Num: 4
+2024-06-24 17:44:57,043 - INFO - Testing debug log! Num: 4
+2024-06-24 17:44:57,544 - ERROR - Testing debug log! Num: 4
