@@ -7,7 +7,7 @@
 
 
 def name_likes_colors(name, *colors):
-    print(f"A {name} le gustan los siguientes colores:")
+    print(f"A {name} likes the following colors:")
     for c in colors:
         print(f"- {c}")
 
